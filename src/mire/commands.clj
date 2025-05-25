@@ -129,7 +129,10 @@
                "detect" detect
                "look" look
                "say" say
-               "help" help})
+               "help" help
+               "enemies" enemies
+               "kill" kill    
+               "stats" stats})
 
 ;; Command handling
 
